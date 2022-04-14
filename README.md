@@ -8,3 +8,5 @@ This project is demonstrating authentication from [React - The Complete Guide (i
 Handle sign-up and login with the same fetch logic with firebase
 
 Use `!!variable` to return `true` or `false` on non-boolean variables
+
+
