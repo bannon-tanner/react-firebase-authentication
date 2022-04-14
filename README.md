@@ -9,4 +9,5 @@ Handle sign-up and login with the same fetch logic with firebase
 
 Use `!!variable` to return `true` or `false` on non-boolean variables
 
-
+Navigation Guards
+- dynamically change route configuration whether logged in or not
